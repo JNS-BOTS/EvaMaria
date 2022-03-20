@@ -19,7 +19,7 @@ class script(object):
     JNS_INLINE_HELP = """HOW TO USE ME ⁉️❔‼️
     All JNS movie and series searching bots can be use by following methods
     
-    @USERNAME_OF_BOT<space>movie/series_name
+    @USERNAME_OF_BOT  movie/series_name
     
     👇🏻JNS MAJOR 4 BOT'S USERNAMES👇🏻
     <code>@JNS_SERIES_BOT</code>
