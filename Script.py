@@ -18,6 +18,10 @@ class script(object):
 
 ✯ 𝓑𝓤𝓘𝓛𝓓 𝓢𝓣𝓐𝓣𝓤𝓢: v1.0.1 [ 𝓑𝓔𝓣𝓐 ]"""
     OTHER_BOTS = """///////////////////////////////////////////////"""
+    
+    
+    
+    #NOT USING FOR TV SERIES BOTS FRFOM HERE
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
