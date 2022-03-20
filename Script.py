@@ -1,34 +1,21 @@
 class script(object):
-    START_TXT = """𝓗𝓮𝓵𝓵𝓸 {},
- 𝓘 𝓬𝓪𝓷 𝓹𝓻𝓸𝓿𝓲𝓭𝓮 𝓣𝓥 𝓼𝓮𝓻𝓲𝓮𝓼, 𝓙𝓾𝓼𝓽 𝓪𝓭𝓭 𝓶𝓮 𝓽𝓸 𝔂𝓸𝓾 𝓰𝓻𝓸𝓾𝓹 𝓫𝔂 𝓬𝓵𝓲𝓬𝓴𝓲𝓷𝓰 𝓫𝓮𝓵𝓸𝔀  <u>𝓐𝓓𝓓<u> 𝓫𝓾𝓽𝓽𝓸𝓷 𝓪𝓷𝓭 𝓮𝓷𝓳𝓸𝔂 😍"""
-    HELP_TXT = """𝓗𝓮𝔂 {}
-
-𝓗𝓮𝓻𝓮 𝓲𝓼 𝓽𝓱𝓮 𝓱𝓮𝓵𝓹 𝓯𝓸𝓻 𝓶𝔂  𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼."""
-    ABOUT_TXT = """✯ 𝓜𝓨 𝓝𝓐𝓜𝓔: {}
-
-✯ 𝓒𝓡𝓔𝓐𝓣𝓞𝓡: <a href=https://t.me/jns_bots>❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥</a>
-
-✯ 𝓛𝓘𝓑𝓡𝓐𝓡𝓨: 𝓟𝓨𝓡𝓞𝓖𝓡𝓐𝓜
-
-✯ 𝓛𝓐𝓝𝓖𝓐𝓤𝓖𝓔: 𝓟𝓨𝓣𝓗𝓞𝓝 3
-
-✯ 𝓓𝓐𝓣𝓐𝓑𝓐𝓢𝓔: 𝓜𝓞𝓝𝓖𝓞 𝓓𝓑 🍃
-
-✯ 𝓑𝓞𝓣 𝓢𝓔𝓡𝓥𝓔𝓡: 𝓗𝓔𝓡𝓞𝓚𝓤
-
-✯ 𝓑𝓤𝓘𝓛𝓓 𝓢𝓣𝓐𝓣𝓤𝓢: v1.0.1 [ 𝓑𝓔𝓣𝓐 ]"""
-    OTHER_BOTS = """///////////////////////////////////////////////"""
-    
-    
-    
-    #NOT USING FOR TV SERIES BOTS FRFOM HERE
+    START_TXT = """𝙷𝙴𝙻𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+    HELP_TXT = """𝙷𝙴𝚈 {}
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
-        
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
