@@ -4,19 +4,27 @@ class script(object):
     HELP_TXT = """𝓗𝓮𝔂 {}
 
 𝓗𝓮𝓻𝓮 𝓲𝓼 𝓽𝓱𝓮 𝓱𝓮𝓵𝓹 𝓯𝓸𝓻 𝓶𝔂  𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓼."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """✯ 𝓜𝓨 𝓝𝓐𝓜𝓔: {}
+
+✯ 𝓒𝓡𝓔𝓐𝓣𝓞𝓡: <a href=https://t.me/jns_bots>❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥</a>
+
+✯ 𝓛𝓘𝓑𝓡𝓐𝓡𝓨: 𝓟𝓨𝓡𝓞𝓖𝓡𝓐𝓜
+
+✯ 𝓛𝓐𝓝𝓖𝓐𝓤𝓖𝓔: 𝓟𝓨𝓣𝓗𝓞𝓝 3
+
+✯ 𝓓𝓐𝓣𝓐𝓑𝓐𝓢𝓔: 𝓜𝓞𝓝𝓖𝓞 𝓓𝓑 🍃
+
+✯ 𝓑𝓞𝓣 𝓢𝓔𝓡𝓥𝓔𝓡: 𝓗𝓔𝓡𝓞𝓚𝓤
+
+✯ 𝓑𝓤𝓘𝓛𝓓 𝓢𝓣𝓐𝓣𝓤𝓢: v1.0.1 [ 𝓑𝓔𝓣𝓐 ]"""
+    OTHER_BOTS = """///////////////////////////////////////////////"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+        
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
