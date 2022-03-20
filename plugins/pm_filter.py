@@ -465,6 +465,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "jns__team":
         buttons = [[
+            InlineKeyboardButton('JNS MOVIE SEARCH', url='https://t.me/Fc_media_search1_bot')
+        ], [
+            InlineKeyboardButton('JNS GROUP HELPER', url='https://t.me/JNS_MOVIE_BOT')
+        ], [
+            InlineKeyboardButton('JNS MOVIE BOT', url='https://t.me/JNSMOVIE_BOT')
+        ], [
+            InlineKeyboardButton('❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥', url='https://t.me/JNS_BOTS')
+        ], [
             InlineKeyboardButton('👩‍🦯 Back', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
