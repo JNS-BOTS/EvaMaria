@@ -40,7 +40,7 @@ class script(object):
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db.
  
- ‼️ ADMIN will varify before adding files to db (will notify you)
+ ‼️ ADMIN will verify before adding files to db (will notify you)
  """
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
