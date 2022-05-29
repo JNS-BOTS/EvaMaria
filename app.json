@@ -41,6 +41,11 @@
         "PICS": {
             "description": "Add some telegraph link of pictures .",
             "required": false
+        },        
+        "DELETE_TIME": {
+            "description": "time to auto delete my message",
+            "value": "60",
+            "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
