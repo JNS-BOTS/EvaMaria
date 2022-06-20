@@ -1,6 +1,9 @@
+## JNS SERIES BOT REPO
+
+
+
 
 ## Features
-
 - [x] Auto Filter
 - [x] Manual Filter
 - [x] IMDB
@@ -32,36 +35,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
-
-## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   
-  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JNS-BOTS/EvaMaria)
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/EvamariaTG/evamaria
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
 
 
 ## Commands
@@ -92,9 +66,6 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
